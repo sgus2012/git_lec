@@ -105,7 +105,3 @@ print(not 2 in a) # - False
 is_odd = a[0] % 2 == 0
 print(is_odd) # - False
 # И т.д
-
-
-
- 
